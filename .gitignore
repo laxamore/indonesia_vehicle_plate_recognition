@@ -1,0 +1,5 @@
+keras-ocr.ipynb
+training/
+test/
+eng_new.traineddata
+.ocr_video_with_tesseract.py.swp
